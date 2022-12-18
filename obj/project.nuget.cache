@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bnK3/ysjfoHETBJM6pSBK+cFnv9cM+wa31Og8yvcg54j7w1+4qjZHeAWukDTARPVDKELvjR36JHHgIvcEH8jVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Алексей\\source\\repos\\AzemitologaUzdevums\\AzemitologaUzdevums\\AzemitologaUzdevums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

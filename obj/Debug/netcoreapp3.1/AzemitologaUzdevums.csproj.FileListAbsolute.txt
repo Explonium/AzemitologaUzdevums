@@ -1,0 +1,14 @@
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\bin\Debug\netcoreapp3.1\AzemitologaUzdevums.exe
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\bin\Debug\netcoreapp3.1\AzemitologaUzdevums.deps.json
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\bin\Debug\netcoreapp3.1\AzemitologaUzdevums.runtimeconfig.json
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\bin\Debug\netcoreapp3.1\AzemitologaUzdevums.runtimeconfig.dev.json
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\bin\Debug\netcoreapp3.1\AzemitologaUzdevums.dll
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\bin\Debug\netcoreapp3.1\AzemitologaUzdevums.pdb
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\obj\Debug\netcoreapp3.1\AzemitologaUzdevums.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\obj\Debug\netcoreapp3.1\AzemitologaUzdevums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\obj\Debug\netcoreapp3.1\AzemitologaUzdevums.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\obj\Debug\netcoreapp3.1\AzemitologaUzdevums.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\obj\Debug\netcoreapp3.1\AzemitologaUzdevums.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\obj\Debug\netcoreapp3.1\AzemitologaUzdevums.dll
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\obj\Debug\netcoreapp3.1\AzemitologaUzdevums.pdb
+C:\Users\Алексей\source\repos\AzemitologaUzdevums\AzemitologaUzdevums\obj\Debug\netcoreapp3.1\AzemitologaUzdevums.genruntimeconfig.cache
